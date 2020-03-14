@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Hello guys!");
         System.out.println("Last Changes");
         System.out.println("Check if your local is ahead of origin master");
+	System.out.println("hehehe");
     }
 }
