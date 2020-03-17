@@ -7,6 +7,12 @@ public class Another {
 		System.out.println("HEEEY");
 		System.out.println("HEEEY 2. try");
 		System.out.println("HEEEY");
+		System.out.println("HEEEY");
+		System.out.println("HEEEY");
+		System.out.println("HEEEY");
+		System.out.println("HEEEY");
+		System.out.println("HEEEY");
+		System.out.println("HEEEY");
 	}
 
 }
